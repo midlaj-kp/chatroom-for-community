@@ -13,7 +13,6 @@
 
 - [About the Project](#-about-the-project)
 - [Features](#-features)
-- [Demo](#-demo)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
@@ -39,13 +38,6 @@ This Node.js chatroom enables users to communicate in real time and securely sha
 - 📁 File sharing (images, docs, etc.)  
 - 🧾 File download for all participants  
 - 🌐 Responsive frontend  
-
----
-
-## 🎬 Demo
-
-<!-- Add your hosted demo link -->
-**Live Demo:** [https://your-live-chatroom-url.com](https://your-live-chatroom-url.com)
 
 ---
 
@@ -118,9 +110,9 @@ nodejs-chatroom/
 │   ├── chat
 │   ├── uploads
 │   ├── style.css
-│   ├── script.js         # (optional) file storage directory
-├── uploads/                  # Files uploaded by users (if stored)
-├── server.js                 # Main backend logic
+│   ├── script.js        
+├── uploads/            
+├── server.js               
 ├── package.json
 └── README.md
 ```
