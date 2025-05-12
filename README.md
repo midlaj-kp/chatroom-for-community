@@ -74,12 +74,12 @@ This Node.js chatroom enables users to communicate in real time and securely sha
 
 2. **Install dependencies:**
    ```bash
-   npm install
+   npm install socket.io multer express
    ```
 
 3. **Start the server:**
    ```bash
-   node index.js
+   node server.js
    ```
 
 4. **Visit in browser:**
@@ -112,12 +112,15 @@ This Node.js chatroom enables users to communicate in real time and securely sha
 ```
 nodejs-chatroom/
 ├── public/
-│   ├── index.html
+│   ├── join
+│   ├── main
+│   ├── create
+│   ├── chat
+│   ├── uploads
 │   ├── style.css
-│   ├── script.js
-│   └── uploads/              # (optional) file storage directory
+│   ├── script.js         # (optional) file storage directory
 ├── uploads/                  # Files uploaded by users (if stored)
-├── index.js                  # Main backend logic
+├── server.js                 # Main backend logic
 ├── package.json
 └── README.md
 ```
