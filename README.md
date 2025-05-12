@@ -123,11 +123,13 @@ nodejs-chatroom/
 
 <!-- Replace these with actual screenshots -->
 - **Chat UI**  
-  ![Chat UI](screenshots/chat-ui.png)
+  ![Chat UI](https://github.com/midlaj-kp/chatroom-for-community/blob/main/chat.png)
 
-- **File upload and download**  
-  ![File Sharing](screenshots/file-sharing.png)
-
+- **Other**  
+  ![png](https://github.com/midlaj-kp/chatroom-for-community/blob/main/login.png)
+  ![png](https://github.com/midlaj-kp/chatroom-for-community/blob/main/main.png)
+  ![png](https://github.com/midlaj-kp/chatroom-for-community/blob/main/create.png)
+  ![png](https://github.com/midlaj-kp/chatroom-for-community/blob/main/join.png)
 ---
 
 ## 🤝 Contributing
